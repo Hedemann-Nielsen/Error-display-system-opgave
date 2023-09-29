@@ -72,7 +72,7 @@ ugeValgBtn.addEventListener("click", () => {
  }
 });
 
-// Opgave 3
+// Opgave 3 - ekstra opgave
 // udskiv et billede i af den valgte bil i dommen
 const biler = document.getElementById('cars');
 
