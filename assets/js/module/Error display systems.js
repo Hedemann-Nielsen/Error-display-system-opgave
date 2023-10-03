@@ -1,4 +1,3 @@
-
 export function ErrorDisplay(myError, fejl) {
     // console.log(alert, fejl);
  
